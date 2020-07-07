@@ -109,7 +109,7 @@ to_details: function(event) {
 
 ## json
 
-## js
+## js api
 
 - onLaunch 小程序启动之后 触发
 
@@ -127,7 +127,9 @@ to_details: function(event) {
 - onReachBottom 上拉
 - onPullDownRefresh 下拉
 
-## html
+- wx.createCameraContext 调用拍照功能
+
+## html 组件
 
 - bindtap 点击事件
 - bindchange
@@ -139,6 +141,7 @@ to_details: function(event) {
 - swiper
   - block
 - rich-text 富文本
+- camera 系统相机
 
 ## 组件功能
 
