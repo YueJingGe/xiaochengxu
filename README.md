@@ -129,7 +129,7 @@ to_details: function(event) {
 
 ## html
 
-- bindtap
+- bindtap 点击事件
 - bindchange
 - bindinput
 - wx:for
